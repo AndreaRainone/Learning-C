@@ -1,0 +1,21 @@
+name: Blocca file .exe
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check-exe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v3
+
+      - name: Cerca file .exe
+        run: |
+          if git ls-files '*.exe' | grep .; then
+            echo "❌ Commit contiene file .exe. Rimuovili prima di pushare.";
+            exit 1;
+          else
+            echo "✅ Nessun file .exe rilevato.";
+          fi
