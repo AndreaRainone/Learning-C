@@ -1,0 +1,8 @@
+Inception;Christopher Nolan;fantascienza;2010;3;5 4 5
+The Dark Knight;Christopher Nolan;azione;2008;4;5 5 4 5
+The Dark Knight1;Christopher Nolan;azione;2008;4;5 3 4 5
+The Dark Knight2;Christopher Nolan;azione;2008;4;5 1 4 5
+The Dark Knight3;Christopher Nolan;azione;2008;4;5 1 2 5
+The Dark Knight4;Christopher Nolan;azione;2008;4;5 5 4 5
+The Dark Knight5;Christopher Nolan;azione;2008;4;5 0 4 5
+The Dark Knight6;Christopher Nolan;azione;2008;4;1 5 4 5
