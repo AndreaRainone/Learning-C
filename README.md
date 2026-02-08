@@ -26,3 +26,5 @@ I'll try to make the codes clear for anyone, even if the tasks are given in ital
 ### 5.  <ins>Lesson 5 (arrays and functions):</ins>
     - Vectors (array): one-dimensional, multi-dimensional, VLA (variable length arrays).
     - Functions: declaration, initialization, use.
+### 6.  <ins>Lesson 6 (arrays and pointers):</ins>
+    - Pointers & Pointer with arrays
